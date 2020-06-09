@@ -1,6 +1,6 @@
 {
   "name": "@ssp0929/add-two-numbers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Add two numbers together",
   "main": "index.js",
   "scripts": {
