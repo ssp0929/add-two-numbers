@@ -1,0 +1,27 @@
+{
+  "name": "@ssp0929/add-two-numbers",
+  "version": "1.0.0",
+  "description": "Add two numbers together",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssp0929/add-two-numbers.git"
+  },
+  "keywords": [
+    "add",
+    "two",
+    "numbers"
+  ],
+  "author": "Stephen Park",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssp0929/add-two-numbers/issues"
+  },
+  "homepage": "https://github.com/ssp0929/add-two-numbers#readme",
+  "dependencies": {
+    "is-number": "^7.0.0"
+  }
+}
